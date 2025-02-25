@@ -16,13 +16,13 @@ Proyecto de un vehículo robótico con doble modalidad: **control manual vía Bl
 ---
 
 ## 🛠️ Tecnologías Utilizadas
-| Componente              | Detalles                          |
-|-------------------------|-----------------------------------|
+| Componente              | Detalles                         |
+|-------------------------|----------------------------------|
 | **Placa**               | Arduino Mega 2560                |
 | **Comunicación**        | Módulo Bluetooth HC-05           |
 | **Sensores**            | HC-SR04 (ultrasónico)            |
 | **Motores**             | 2x Motor DC con puente H (L298N) |
-| **Entorno de Simulación**| Tinkercad (opcional)            |
+| **Entorno de Simulación**| Tinkercad                       |
 
 ---
 
